@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThibautLandrein
 - 👀 I’m interested in mostly python programming but curious about all aspects of computing
-- 🌱 I’m currently learning tensorflow
+- 🌱 I’m currently learning tensorflow & Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me th.landrein@gmail.com
 
