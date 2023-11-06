@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python & Go<br>🌱 I’m currently learning Flutter & Django
+🔭 I’m currently working on Python & Go<br>🌱 I’m currently learning Django
 
 
 ## 🌐 Socials:
