@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python & Go<br>🌱 I’m currently learning Django
+🔭 I’m currently working at Pasqal (Python & C)<br>🌱 I’m currently learning FastAPI
 
 
 ## 🌐 Socials:
